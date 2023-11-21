@@ -1,4 +1,5 @@
-# GitHub Explore
+bundle install
+bundle exec rubocop# GitHub Explore
 
 This repository houses all of the community-curated content for GitHub Topics and Collections.
 
